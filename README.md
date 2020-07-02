@@ -1,3 +1,5 @@
+This code is associated with the paper from Trakoshiset al., "Intrinsic excitation-inhibition imbalance affects medial prefrontal cortex differently in autistic men versus women". eLife, 2020. http://doi.org/10.7554/eLife.55684
+
 # Instructions to simulate the LIF network model 
 
 ## Building the neuron model 
